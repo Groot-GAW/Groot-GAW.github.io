@@ -5,7 +5,7 @@
 2. Department: Computer Science and Technology
 
 ## Speech Demo
-##### Left indicates the speech, rigth indicates the stego
+##### Left indicates the **Speech**, rigth indicates the **Stego**
 <audio controls>
   <source src="speech/ljs_speech10.wav"> 
 </audio>
