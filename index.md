@@ -6,5 +6,6 @@
 
 ## Speech Demo
 <audio controls>
-  <source src="{{ site.baseurl }}/speech/speech1.mp3"> 
+  speech1
+  <source src="{{ site.baseurl }}/speech/ljs_speech10.wav"> 
 </audio>
