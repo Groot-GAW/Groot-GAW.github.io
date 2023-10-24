@@ -5,6 +5,6 @@
 2. Department: Computer Science and Technology
 
 ## Speech Demo
-<audio controls>
-  <source src="{{ site.baseurl }}/speech/ljs_speech10.wav" type="audio/wav"> 
-</audio>
+<!-- <audio controls> -->
+<!--   <source src="{{ site.baseurl }}/speech/ljs_speech10.wav" type="audio/wav">  -->
+<!-- </audio> -->
