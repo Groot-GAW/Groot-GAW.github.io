@@ -3,6 +3,7 @@
 ### Liu Weizhi
 1. School: Huaqiao University, Xiamen, Fujian, **China**
 2. Department: Computer Science and Technology
+3. Major: Generative Speech Information Hiding
 
 ## Speech Demo
 ##### Left indicates the **Speech**, rigth indicates the **Stego**
