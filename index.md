@@ -8,41 +8,41 @@
 ## Speech Demo
 ##### Left indicates the **Speech**, rigth indicates the **Stego**
 <audio controls>
-  <source src="speech/ljs_speech10.wav"> 
+  <source src="speech/ljs_speech_demo1.wav"> 
 </audio>
 
 <audio controls>
-  <source src="speech/ljs_stego10.wav">
+  <source src="speech/ljs_stego_demo1.wav">
 </audio>
 
 <audio controls>
-  <source src="speech/ljs_speech20.wav">  
+  <source src="speech/ljs_speech_demo2.wav">  
 </audio>
 
 <audio controls>
-  <source src="speech/ljs_stego20.wav">  
+  <source src="speech/ljs_stego_demo2.wav">  
 </audio>
 
 <audio controls>
-  <source src="speech/ljs_speech30.wav"> 
+  <source src="speech/ljs_speech_demo3.wav"> 
 </audio>
 
 <audio controls>
-  <source src="speech/ljs_stego30.wav">
+  <source src="speech/ljs_stego_demo3.wav">
 </audio>
 
 <audio controls>
-  <source src="speech/ljs_speech40.wav">  
+  <source src="speech/ljs_speech_demo4.wav">  
 </audio>
 
 <audio controls>
-  <source src="speech/ljs_stego40.wav">  
+  <source src="speech/ljs_stego_demo4.wav">  
 </audio>
 
 <audio controls>
-  <source src="speech/ljs_speech50.wav">  
+  <source src="speech/ljs_speech_demo5.wav">  
 </audio>
 
 <audio controls>
-  <source src="speech/ljs_stego50.wav">  
+  <source src="speech/ljs_stego_demo5.wav">  
 </audio>
