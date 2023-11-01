@@ -1,4 +1,4 @@
-# Generative Speech Steganography
+# Proactive Supervision on Generated Speech by Diffusion Models with Generative Watermarking
 
 ### Liu Weizhi
 1. School: Huaqiao University, Xiamen, Fujian, **China**
@@ -6,7 +6,7 @@
 3. Major: Generative Speech Information Hiding
 
 ## Speech Demo
-##### Left indicates the **Speech**, rigth indicates the **Stego**
+##### Left indicates the **Generated Speech**, rigth represents the **Watermarked Speech**
 <audio controls>
   <source src="speech/ljs_speech_demo1.wav"> 
 </audio>
