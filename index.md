@@ -1,4 +1,4 @@
-# Proactive Supervision on Generated Speech by Diffusion Models with Generative Watermarking
+# Generative Speech Watermarking
 
 ### Liu Weizhi
 1. School: Huaqiao University, Xiamen, Fujian, **China**
