@@ -1,7 +1,6 @@
 # Instilling Robust Watermark into Diffusion Models of Speech Generation
 
-### Generative Speech Watermarking
-##### The proposed **GSW**
+### Generative Speech Watermarking (**GSW**)
 ![alt](GSW.jpg)
 
 ### Abstract
