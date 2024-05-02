@@ -9,7 +9,7 @@
 
 <table>
   <thead>
-     <th style="text-align: center"></th>
+     <th style="text-align: center">DiffWave</th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
@@ -52,7 +52,7 @@
 ### Multi-Speaker Datasets (LibriTTS)
 <table>
   <thead>
-     <th style="text-align: center"></th>
+     <th style="text-align: center">DiffWave</th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
@@ -79,13 +79,23 @@
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/lts/lts_watermarked5.wav" type="audio/wav"></audio></td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <th>Mel</th>
+      <td style="text-align: center"><img src="audio/lts/ljs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lts/ljs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lts/ljs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lts/ljs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lts/ljs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
+    </tr>
+  </tbody>
 </table>
 
 
 ### Multi-Speaker Datasets (LibriSpeech)
 <table>
   <thead>
-     <th style="text-align: center"></th>
+     <th style="text-align: center">DiffWave</th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
@@ -110,6 +120,16 @@
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/lbs/lbs_watermarked3.wav" type="audio/wav"></audio></td>
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/lbs/lbs_watermarked4.wav" type="audio/wav"></audio></td>
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/lbs/lbs_watermarked5.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>Mel</th>
+      <td style="text-align: center"><img src="audio/lbs/ljs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lbs/ljs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lbs/ljs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lbs/ljs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lbs/ljs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
     </tr>
   </tbody>
 </table>
@@ -143,6 +163,16 @@
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/asl/asl_watermarked3.wav" type="audio/wav"></audio></td>
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/asl/asl_watermarked4.wav" type="audio/wav"></audio></td>
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/asl/asl_watermarked5.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>Mel</th>
+      <td style="text-align: center"><img src="audio/asl/ljs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/asl/ljs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/asl/ljs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/asl/ljs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/asl/ljs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
     </tr>
   </tbody>
 </table>
