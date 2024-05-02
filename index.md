@@ -13,7 +13,7 @@
 
 <table>
   <thead>
-     <th style="text-align: center">DiffWave</th>
+     <th style="text-align: center"><strong><em>DiffWave<sup>1</sup></em></strong></th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
@@ -54,7 +54,7 @@
 
 <table>
   <thead>
-     <th style="text-align: center">WaveGrad</th>
+     <th style="text-align: center"><strong><em>WaveGrad<sup>2</sup></em></strong></th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
@@ -95,7 +95,7 @@
 
 <table>
   <thead>
-     <th style="text-align: center">PriorGrad</th>
+     <th style="text-align: center"><strong><em>PriorGrad<sup>3</sup></em></strong></th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
@@ -263,4 +263,9 @@
     </tr>
   </tbody>
 </table>
+
+### Reference
+1. Kong Z, Ping W, Huang J, et al. DiffWave: A Versatile Diffusion Model for Audio Synthesis[C]//International Conference on Learning Representations. 2021.
+2. Chen N, Zhang Y, Zen H, et al. WaveGrad: Estimating Gradients for Waveform Generation[C]//International Conference on Learning Representations. 2021.
+3. Lee S, Kim H, Shin C, et al. PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior[C]//International Conference on Learning Representations. 2022.
 
