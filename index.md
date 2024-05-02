@@ -13,7 +13,7 @@
 
 <table>
   <thead>
-     <th style="text-align: center"><strong><em>DiffWave<sup>1</sup></em></strong></th>
+     <th style="text-align: center"><strong><em>DiffWave<sup>[1]</sup></em></strong></th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
@@ -54,7 +54,7 @@
 
 <table>
   <thead>
-     <th style="text-align: center"><strong><em>WaveGrad<sup>2</sup></em></strong></th>
+     <th style="text-align: center"><strong><em>WaveGrad<sup>[2]</sup></em></strong></th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
@@ -95,7 +95,7 @@
 
 <table>
   <thead>
-     <th style="text-align: center"><strong><em>PriorGrad<sup>3</sup></em></strong></th>
+     <th style="text-align: center"><strong><em>PriorGrad<sup>[3]</sup></em></strong></th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
@@ -139,7 +139,7 @@
 ### Multi-Speaker Datasets (LibriTTS)
 <table>
   <thead>
-     <th style="text-align: center">DiffWave</th>
+     <th style="text-align: center"><em>DiffWave</em></th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
@@ -182,7 +182,7 @@
 ### Multi-Speaker Datasets (LibriSpeech)
 <table>
   <thead>
-     <th style="text-align: center">DiffWave</th>
+     <th style="text-align: center"><em>DiffWave</em></th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
@@ -222,10 +222,10 @@
 </table>
 
 
-### Multi-Speaker Datasets (Aishell3)
+### Multi-Speaker Datasets (Aishell3 [<em>Chinese</em>])
 <table>
   <thead>
-     <th style="text-align: center">DiffWave</th>
+     <th style="text-align: center"><em>DiffWave</em></th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
