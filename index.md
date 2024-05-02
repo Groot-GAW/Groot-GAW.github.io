@@ -29,11 +29,11 @@
   <tbody>
     <tr>
       <th>Generated</th>
-      <td style="text-align: center"><img src="audio/ljs/ljs1.png" alt="Description" style="width: 90%; height: 90%;"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs2.png" alt="Description" style="width: 90%; height: 90%;"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs3.png" alt="Description" style="width: 90%; height: 90%;"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs4.png" alt="Description" style="width: 90%; height: 90%;"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs5.png" alt="Description" style="width: 90%; height: 90%;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
     </tr>
   </tbody>
   <tbody>
