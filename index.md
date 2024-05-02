@@ -29,11 +29,11 @@
   <tbody>
     <tr>
       <th>Generated</th>
-      <td style="text-align: center"><img src="audio/ljs/ljs1.png" alt="Description"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs2.png" alt="Description"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs3.png" alt="Description"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs4.png" alt="Description"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs5.png" alt="Description"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs1.png" alt="Description style="width: 90%; height: auto;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs2.png" alt="Description style="width: 90%; height: auto;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs3.png" alt="Description style="width: 90%; height: auto;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs4.png" alt="Description style="width: 90%; height: auto;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs5.png" alt="Description style="width: 90%; height: auto;"></td>
     </tr>
   </tbody>
   <tbody>
