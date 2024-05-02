@@ -165,11 +165,11 @@
   <tbody>
     <tr>
       <th>Mel</th>
-      <td style="text-align: center"><img src="audio/lts/ljs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/lts/ljs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/lts/ljs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/lts/ljs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/lts/ljs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lts/lts1.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lts/lts2.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lts/lts3.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lts/lts4.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lts/lts5.png" alt="Description" style="width: 100%; height: 100%;"></td>
     </tr>
   </tbody>
 </table>
@@ -208,11 +208,11 @@
   <tbody>
     <tr>
       <th>Mel</th>
-      <td style="text-align: center"><img src="audio/lbs/ljs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/lbs/ljs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/lbs/ljs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/lbs/ljs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/lbs/ljs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lbs/lbs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lbs/lbs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lbs/lbs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lbs/lbs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/lbs/lbs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
     </tr>
   </tbody>
 </table>
@@ -251,11 +251,11 @@
   <tbody>
     <tr>
       <th>Mel</th>
-      <td style="text-align: center"><img src="audio/asl/ljs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/asl/ljs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/asl/ljs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/asl/ljs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/asl/ljs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/asl/asl1.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/asl/asl2.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/asl/asl3.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/asl/asl4.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/asl/asl5.png" alt="Description" style="width: 100%; height: 100%;"></td>
     </tr>
   </tbody>
 </table>
