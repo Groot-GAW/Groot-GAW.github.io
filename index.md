@@ -225,7 +225,7 @@
 ### Multi-Speaker Datasets (Aishell3)
 <table>
   <thead>
-     <th style="text-align: center"></th>
+     <th style="text-align: center">DiffWave</th>
      <th style="text-align: center">Demo1</th>
      <th style="text-align: center">Demo2</th>
      <th style="text-align: center">Demo3</th>
