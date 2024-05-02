@@ -25,11 +25,11 @@
   <tbody>
     <tr>
       <th>Generated</th>
-      <td style="text-align: center">![Image](audio/ljs/ljs1.png</td>
-      <td style="text-align: center">![Image](audio/ljs/ljs2.png</td>
-      <td style="text-align: center">![Image](audio/ljs/ljs3.png</td>
-      <td style="text-align: center">![Image](audio/ljs/ljs4.png</td>
-      <td style="text-align: center">![Image](audio/ljs/ljs5.png</td>
+      <td style="text-align: center">![Image](audio/ljs/ljs1.png)</td>
+      <td style="text-align: center">![Image](audio/ljs/ljs2.png)</td>
+      <td style="text-align: center">![Image](audio/ljs/ljs3.png)</td>
+      <td style="text-align: center">![Image](audio/ljs/ljs4.png)</td>
+      <td style="text-align: center">![Image](audio/ljs/ljs5.png)</td>
     </tr>
   </tbody>
   <tbody>
