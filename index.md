@@ -28,22 +28,22 @@
   </tbody>
   <tbody>
     <tr>
-      <th>Generated</th>
-      <td style="text-align: center"><img src="audio/ljs/ljs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
-      <td style="text-align: center"><img src="audio/ljs/ljs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
       <th>Watermarked</th>
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/ljs/ljs_watermarked1.wav" type="audio/wav"></audio></td>
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/ljs/ljs_watermarked2.wav" type="audio/wav"></audio></td>
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/ljs/ljs_watermarked3.wav" type="audio/wav"></audio></td>
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/ljs/ljs_watermarked4.wav" type="audio/wav"></audio></td>
       <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/ljs/ljs_watermarked5.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>Mel</th>
+      <td style="text-align: center"><img src="audio/ljs/ljs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/ljs/ljs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
     </tr>
   </tbody>
 </table>
