@@ -1,3 +1,7 @@
+{:.no_toc}
+* toc
+{:toc}
+
 # Groot: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis
 
 ## Audio Demo
