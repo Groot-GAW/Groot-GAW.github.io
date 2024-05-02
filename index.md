@@ -1,5 +1,3 @@
-
-
 # Groot: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis
 
 ## Audio Demo
