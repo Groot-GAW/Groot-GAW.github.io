@@ -48,6 +48,89 @@
   </tbody>
 </table>
 
+<table>
+  <thead>
+     <th style="text-align: center">WaveGrad</th>
+     <th style="text-align: center">Demo1</th>
+     <th style="text-align: center">Demo2</th>
+     <th style="text-align: center">Demo3</th>
+     <th style="text-align: center">Demo4</th>
+     <th style="text-align: center">Demo5</th>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Generated</th>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/wavegrad/ljs_generated1.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/wavegrad/ljs_generated2.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/wavegrad/ljs_generated3.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/wavegrad/ljs_generated4.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/wavegrad/ljs_generated5.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>Watermarked</th>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/wavegrad/ljs_watermarked1.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/wavegrad/ljs_watermarked2.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/wavegrad/ljs_watermarked3.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/wavegrad/ljs_watermarked4.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/wavegrad/ljs_watermarked5.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>Mel</th>
+      <td style="text-align: center"><img src="audio/wavegrad/ljs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/wavegrad/ljs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/wavegrad/ljs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/wavegrad/ljs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/wavegrad/ljs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+     <th style="text-align: center">PriorGrad</th>
+     <th style="text-align: center">Demo1</th>
+     <th style="text-align: center">Demo2</th>
+     <th style="text-align: center">Demo3</th>
+     <th style="text-align: center">Demo4</th>
+     <th style="text-align: center">Demo5</th>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Generated</th>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/priorgrad/ljs_generated1.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/priorgrad/ljs_generated2.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/priorgrad/ljs_generated3.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/priorgrad/ljs_generated4.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/priorgrad/ljs_generated5.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>Watermarked</th>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/priorgrad/ljs_watermarked1.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/priorgrad/ljs_watermarked2.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/priorgrad/ljs_watermarked3.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/priorgrad/ljs_watermarked4.wav" type="audio/wav"></audio></td>
+      <td style="text-align: center"><audio controls style="width: 150px;"><source src="audio/priorgrad/ljs_watermarked5.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>Mel</th>
+      <td style="text-align: center"><img src="audio/priorgrad/ljs1.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/priorgrad/ljs2.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/priorgrad/ljs3.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/priorgrad/ljs4.png" alt="Description" style="width: 100%; height: 100%;"></td>
+      <td style="text-align: center"><img src="audio/priorgrad/ljs5.png" alt="Description" style="width: 100%; height: 100%;"></td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ### Multi-Speaker Datasets (LibriTTS)
 <table>
