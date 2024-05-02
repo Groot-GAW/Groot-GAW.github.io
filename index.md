@@ -9,7 +9,7 @@
 ## Overview
 
 ## Audio Demo
-### Single-Speaker Datasets (LJSpeech)
+### Single-Speaker English Datasets (LJSpeech)
 
 <table>
   <thead>
@@ -136,7 +136,7 @@
 
 
 
-### Multi-Speaker Datasets (LibriTTS)
+### Multi-Speaker English Datasets (LibriTTS)
 <table>
   <thead>
      <th style="text-align: center"><em>DiffWave</em></th>
@@ -179,7 +179,7 @@
 </table>
 
 
-### Multi-Speaker Datasets (LibriSpeech)
+### Multi-Speaker English Datasets (LibriSpeech)
 <table>
   <thead>
      <th style="text-align: center"><em>DiffWave</em></th>
@@ -222,7 +222,7 @@
 </table>
 
 
-### Multi-Speaker Datasets (Aishell3 [<em>Chinese</em>])
+### Multi-Speaker Chinese Datasets (Aishell3)
 <table>
   <thead>
      <th style="text-align: center"><em>DiffWave</em></th>
