@@ -136,7 +136,7 @@
 
 
 
-### Multi-Speaker English Dataset (<strong>LibriTTS</stong>)
+### Multi-Speaker English Dataset (<strong>LibriTTS</strong>)
 <table>
   <thead>
      <th style="text-align: center"><em>DiffWave</em></th>
@@ -179,7 +179,7 @@
 </table>
 
 
-### Multi-Speaker English Dataset (<strong>LibriSpeech</stong>)
+### Multi-Speaker English Dataset (<strong>LibriSpeech</strong>)
 <table>
   <thead>
      <th style="text-align: center"><em>DiffWave</em></th>
@@ -222,7 +222,7 @@
 </table>
 
 
-### Multi-Speaker Chinese Dataset (<strong>Aishell3</stong>)
+### Multi-Speaker Chinese Dataset (<strong>Aishell3</strong>)
 <table>
   <thead>
      <th style="text-align: center"><em>DiffWave</em></th>
