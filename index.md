@@ -136,15 +136,15 @@
 
 
 
-### Multi-Speaker English Dataset (LibriTTS)
+### Multi-Speaker English Dataset (<strong>LibriTTS</stong>)
 <table>
   <thead>
      <th style="text-align: center"><em>DiffWave</em></th>
-     <th style="text-align: center">Demo1</th>
-     <th style="text-align: center">Demo2</th>
-     <th style="text-align: center">Demo3</th>
-     <th style="text-align: center">Demo4</th>
-     <th style="text-align: center">Demo5</th>
+     <th style="text-align: center">Speaker1</th>
+     <th style="text-align: center">Speaker2</th>
+     <th style="text-align: center">Speaker3</th>
+     <th style="text-align: center">Speaker4</th>
+     <th style="text-align: center">Speaker5</th>
   </thead>
   <tbody>
     <tr>
@@ -179,15 +179,15 @@
 </table>
 
 
-### Multi-Speaker English Dataset (LibriSpeech)
+### Multi-Speaker English Dataset (<strong>LibriSpeech</stong>)
 <table>
   <thead>
      <th style="text-align: center"><em>DiffWave</em></th>
-     <th style="text-align: center">Demo1</th>
-     <th style="text-align: center">Demo2</th>
-     <th style="text-align: center">Demo3</th>
-     <th style="text-align: center">Demo4</th>
-     <th style="text-align: center">Demo5</th>
+     <th style="text-align: center">Speaker1</th>
+     <th style="text-align: center">Speaker2</th>
+     <th style="text-align: center">Speaker3</th>
+     <th style="text-align: center">Speaker4</th>
+     <th style="text-align: center">Speaker5</th>
   </thead>
   <tbody>
     <tr>
@@ -222,15 +222,15 @@
 </table>
 
 
-### Multi-Speaker Chinese Dataset (Aishell3)
+### Multi-Speaker Chinese Dataset (<strong>Aishell3</stong>)
 <table>
   <thead>
      <th style="text-align: center"><em>DiffWave</em></th>
-     <th style="text-align: center">Demo1</th>
-     <th style="text-align: center">Demo2</th>
-     <th style="text-align: center">Demo3</th>
-     <th style="text-align: center">Demo4</th>
-     <th style="text-align: center">Demo5</th>
+     <th style="text-align: center">Speaker1</th>
+     <th style="text-align: center">Speaker2</th>
+     <th style="text-align: center">Speaker3</th>
+     <th style="text-align: center">Speaker4</th>
+     <th style="text-align: center">Speaker5</th>
   </thead>
   <tbody>
     <tr>
