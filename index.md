@@ -4,7 +4,7 @@
 
 # Groot: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis
 
-### Author
+## Author
 Weizhi Liu, Yue Li, Dongdong Lin, Hui Tian, Haizhou Li.
 
 ## Abstract
