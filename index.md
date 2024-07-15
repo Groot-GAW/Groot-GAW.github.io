@@ -4,6 +4,9 @@
 
 # Groot: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis
 
+### Author
+Weizhi Liu, Yue Li, Dongdong Lin, Hui Tian, Haizhou Li.
+
 ## Abstract
 Amid the burgeoning development of generative models like diffusion models, the task of differentiating synthesized audio from its natural counterpart
 grows more daunting. Deepfake detection offers a viable solution to combat this challenge. Yet, this defensive measure unintentionally fuels the continued
