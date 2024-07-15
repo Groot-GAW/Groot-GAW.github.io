@@ -15,7 +15,8 @@ retrieved by a lightweight decoder. The experimental results highlight Groot's o
 of the leading state-of-the-art methods. Beyond its impressive resilience against individual post-processing attacks, Groot exhibits exceptional
 robustness when facing compound attacks, maintaining an average watermark extraction accuracy of around 95%.
 
-## Overview
+## Pipeline of Groot
+![Image](groot.png)
 
 ## Audio Demo
 ### Single-Speaker English Dataset (LJSpeech)
