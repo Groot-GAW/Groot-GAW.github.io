@@ -4,22 +4,9 @@
 
 # Groot: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis
 
-## Author
-Weizhi Liu, Yue Li, Dongdong Lin, Hui Tian, Haizhou Li.
-
 ## Abstract
-Amid the burgeoning development of generative models like diffusion models, the task of differentiating synthesized audio from its natural counterpart
-grows more daunting. Deepfake detection offers a viable solution to combat this challenge. Yet, this defensive measure unintentionally fuels the continued
-refinement of generative models. Watermarking emerges as a proactive and sustainable tactic, preemptively regulating the creation and dissemination of
-synthesized content. Thus, this paper, as a pioneer, proposes the generative robust audio watermarking method (Groot), presenting a paradigm for proactively
-supervising the synthesized audio and its source diffusion models. In this paradigm, the processes of watermark generation and audio synthesis occur
-simultaneously, facilitated by parameter-fixed diffusion models equipped with a dedicated encoder. The watermark embedded within the audio can subsequently be
-retrieved by a lightweight decoder. The experimental results highlight Groot's outstanding performance, particularly in terms of robustness, surpassing that
-of the leading state-of-the-art methods. Beyond its impressive resilience against individual post-processing attacks, Groot exhibits exceptional
-robustness when facing compound attacks, maintaining an average watermark extraction accuracy of around 95%.
 
 ## Pipeline of Groot
-![Image](groot.png)
 
 ## Audio Demo
 ### Single-Speaker English Dataset (LJSpeech)
