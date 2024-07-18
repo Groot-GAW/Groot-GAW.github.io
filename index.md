@@ -20,7 +20,7 @@ Amid the burgeoning development of generative models like diffusion models, the 
 ![Image](groot.png)
 
 ## Audio Demo
-### Single-Speaker English Dataset (LJSpeech)
+### Single-Speaker English Dataset (<strong>LJSpeech</strong>)
 
 <table>
   <thead>
