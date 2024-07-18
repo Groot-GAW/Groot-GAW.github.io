@@ -6,8 +6,11 @@
 
 ## Author
 Weizhi Liu<sup>1</sup>, Yue Li<sup>1</sup>, Dongdong Lin<sup>2</sup>, Hui Tian<sup>1</sup>, Haizhou Li<sup>3</sup>.
+
 <sup>1</sup>Huaqiao University and Xiamen Key Laboratory of Data Security and Blockchain Technology, Xiamen, China.
+
 <sup>2</sup>Shenzhen University, Shenzhen, China.
+
 <sup>3</sup>The Chinese University of Hong Kong, Shenzhen, China.
 
 ## Abstract
