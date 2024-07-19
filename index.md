@@ -4,6 +4,11 @@
 
 # Groot: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis
 
+<section class="page-header">
+    <a href="index.html" class="btn">Home</a>
+    <a href="https://github.com/TimbreWatermarking/TimbreWatermarking" class="btn">Code</a>
+</section>
+
 ## Author
 Weizhi Liu<sup>1</sup>, Yue Li<sup>1</sup>, Dongdong Lin<sup>2</sup>, Hui Tian<sup>1</sup>, Haizhou Li<sup>3</sup>.
 
