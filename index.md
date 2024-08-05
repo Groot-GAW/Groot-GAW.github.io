@@ -280,3 +280,17 @@ Amid the burgeoning development of generative models like diffusion models, the 
 2. Chen N, Zhang Y, Zen H, et al. WaveGrad: Estimating Gradients for Waveform Generation[C]//International Conference on Learning Representations. 2021.
 3. Lee S, Kim H, Shin C, et al. PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior[C]//International Conference on Learning Representations. 2022.
 
+### 😊 Citation
+
+If you find the code and dataset useful in your research, please consider citing our paper:
+```
+@inproceedings{liu2024groot,
+  title={GROOT: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis},
+  author={Liu, Weizhi and Li, Yue and Lin, Dongdong and Tian, Hui and Li, Haizhou},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  year={2024}
+}
+```
+
+
+
